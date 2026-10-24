@@ -1,6 +1,6 @@
 # Hi there, I'm Zhiyong! 👋
 
-I'm a **Senior Machine Learning Engineer | AI/LLM Engineer** with 10+ years of experience building and deploying scalable machine learning and AI systems.
+I'm a **Senior Machine Learning Engineer | AI/LLM Engineer** with 5+ years of experience building and deploying scalable machine learning and AI systems.
 
 My expertise spans **Agentic AI, LLMs, RAG, NLP, recommendation systems, and MLOps**, with a strong focus on turning AI research into reliable, production-ready solutions.
 
