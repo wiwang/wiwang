@@ -1,45 +1,39 @@
-# Hi there, I'm Wi Wang! 👋
+# Hi there, I'm Zhiyong! 👋
 
-I am a Senior Machine Learning Engineer with a focus on Natural Language Processing (NLP) and ranking models. I am passionate about developing and deploying machine learning models that have a significant impact. With a strong background in both research and practical implementation, I thrive on turning complex problems into innovative solutions.
+I'm a **Senior Machine Learning Engineer | AI/LLM Engineer** with 10+ years of experience building and deploying scalable machine learning and AI systems.
 
-## 🛠️ Technologies & Tools
+My expertise spans **Agentic AI, LLMs, RAG, NLP, recommendation systems, and MLOps**, with a strong focus on turning AI research into reliable, production-ready solutions.
+
+## 🛠️ Tech Stack
 
 - **Languages:** Python, Java, C++
-- **Machine Learning:** TensorFlow, PyTorch, scikit-learn, Tecton, SageMaker
-- **Frameworks & Libraries:** React, Node.js, Express
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Tecton, SageMaker, DynamoDB, CI/CD
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB
-- **Others:** Git, GitHub Actions, Terraform, Ansible
+- **AI & ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, Sentence Transformers
+- **LLM & Agentic AI:** LangChain, LangGraph, AWS Bedrock, MCP, RAG, Vector Databases
+- **MLOps:** AWS SageMaker, Tecton, Feast, MLflow, Apache Airflow
+- **Cloud & Infrastructure:** AWS, Kubernetes (EKS), Docker, Terraform, GitHub Actions
+- **Data & Backend:** FastAPI, Snowflake, PostgreSQL, DynamoDB, Redis, Kafka
 
-## 🔭 Current Projects
+## 🔭 What I'm Working On
 
-- **Feature Store Development:** Building and maintaining a feature store using Tecton to streamline the feature engineering process.
-- **ML Model Research & Development:** Researching and developing state-of-the-art NLP and ranking models.
-- **Model Deployment:** Deploying machine learning models to production using AWS SageMaker.
-- **NLP Chatbot:** Developing an advanced NLP-based chatbot to improve customer service interactions.
-- **Recommendation System:** Creating a personalized recommendation system for e-commerce platforms.
-- **Real-time Sentiment Analysis:** Implementing a real-time sentiment analysis tool for social media monitoring.
+- **Agentic AI:** Building intelligent agents with tool calling, MCP, memory, and multi-agent workflows.
+- **RAG & Semantic Search:** Developing retrieval pipelines, embedding models, and vector search systems.
+- **Production ML & MLOps:** Designing scalable feature pipelines, model deployment, monitoring, and evaluation.
+- **LLM Optimization:** Improving inference latency, reliability, and cost efficiency through caching, asynchronous processing, and quantization.
 
-## 🌱 Learning Goals
+## 🌱 Currently Exploring
 
-- **Advanced Kubernetes:** Deepening my understanding of Kubernetes and its ecosystem.
-- **Cutting-edge NLP Techniques:** Exploring the latest advancements in NLP to enhance model performance.
-- **MLOps Best Practices:** Implementing MLOps best practices to streamline the deployment and monitoring of ML models.
+- Advanced agent architectures, reasoning, and orchestration
+- LLM fine-tuning, evaluation, and guardrails
+- Scalable AI infrastructure on AWS and Kubernetes
 
-## 📫 How to reach me
+## 📫 Let's Connect!
 
-- **Email:** [wiwang@example.com](mailto:wiwang@example.com)
-- **LinkedIn:** [Wi Wang](https://www.linkedin.com/in/wiwang/)
-- **GitHub:** [wiwang](https://github.com/wiwang)
+I'm always interested in collaborating on **AI engineering, LLM applications, and production ML systems**.
 
-## 📈 GitHub Stats
-
-![wiwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiwang&show_icons=true&theme=radical)
-
-## 💬 Let's Connect!
-
-Feel free to connect with me on LinkedIn or drop me an email. I am always open to discussing new projects, ideas, or opportunities to collaborate.
+- **LinkedIn:** [Zhiyong](https://www.linkedin.com/in/wiwang/)
+- **GitHub:** [Zhiyong](https://github.com/wiwang)
+- **Blog:** [Zhiyong](https://wiwang.github.io/)
 
 ---
 
-*"The only way to do great work is to love what you do."* - Steve Jobs
+*Building intelligent AI systems that work reliably in the real world.*
